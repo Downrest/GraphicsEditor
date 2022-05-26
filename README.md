@@ -2,3 +2,4 @@
 ________
 # Documentation
 ________
+https://github.com/Downrest/GraphicsEditor/wiki
